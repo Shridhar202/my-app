@@ -6,7 +6,7 @@ import Sub from './components/Sub/Sub';
 function App() {
   return (
       <div>
-        <h1> First React Project </h1>
+        <h1> First React Project 1 </h1>
         <p> test p tag </p>
 
         <Add a = '2' b = '2'> </Add>
